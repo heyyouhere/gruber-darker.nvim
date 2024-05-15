@@ -37,7 +37,7 @@ M.setup = function()
 
 		Normal = { bg = colors.bg, fg = colors.fg },
 		NormalFloat = { link = "Normal" },
-		NonText = { link = "Normal" },
+		NonText = { fg = colors.bg_3 },
 
 		FloatBorder = { fg = colors.fg },
 
